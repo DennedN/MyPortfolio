@@ -1,0 +1,17 @@
+.end{
+    letter-spacing: 1px;
+    text-align: center;
+    padding: 20px 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2rem;
+    background-color: var(--snd-bg-color);
+}
+
+.last-text p{
+    color: var(--bg-color);
+    font-size: var(--p-font)
+}
+

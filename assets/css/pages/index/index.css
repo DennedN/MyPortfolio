@@ -1,0 +1,11 @@
+@import './partials/section-about.css';
+@import './partials/section-experience.css';
+@import './partials/section-header.css';
+@import './partials/section-home.css';
+@import './partials/section-portfolio.css';
+@import './partials/section-services.css';
+@import './partials/section-end.css';
+@import './partials/div-top.css';
+
+
+@import '../../global/global.css';

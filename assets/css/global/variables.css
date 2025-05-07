@@ -1,0 +1,15 @@
+:root{
+    --bg-color: #ececec;
+    --second-bg-color: #ffffff;
+    --text-color: rgb(3, 35, 94);
+    --second-color: rgb(0, 0, 0);
+    --main-color: #c96522;
+    --big-font: 5rem;
+    --h2-font: 3rem;
+    --p-font: 1.1rem;
+    --p-small-font: 0.9rem;
+    --fbg-color:#191f36;
+    --snd-bg-color:#262B40;
+    --txt-color:#FFF;
+    --snd-color:#59b2f4;
+}

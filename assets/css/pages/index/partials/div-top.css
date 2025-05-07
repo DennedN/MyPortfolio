@@ -1,0 +1,22 @@
+#top{
+    position: fixed;
+    bottom: 0;
+    padding: auto;
+    margin: 5rem;
+}
+
+#top.hide-top{
+    display: none;
+}
+
+#top.show-top{
+    display: block;
+}
+
+#top i{
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 28px;
+    color: var(--bg-color);
+    background: var(--main-color);
+}
